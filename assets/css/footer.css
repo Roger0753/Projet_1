@@ -1,0 +1,135 @@
+/* VARIABLES COMMUNES START */
+
+:root {
+  --primary-color: #000;
+  --secondary-color: #fff;
+  --button-color: #8f1d28;
+  --hover-color: #cc0200;
+  --light-dark: rgba(0, 0, 0, 0.7);
+  --light-dark-2: rgba(0, 0, 0, 0.4);
+  --light-white: rgba(255, 255, 255, 0.7);
+  --light-white-2: rgba(255, 255, 255, 0.4);
+
+  --spacing: 8px;
+  --spacing-2: 16px;
+  --spacing-3: 24px;
+  --spacing-4: 32px;
+  --spacing-5: 40px;
+
+  --text-font-size: 16px;
+  --title1-font-size: 32px;
+  --title2-font-size: 28px;
+  --title3-font-size: 24px;
+
+  --font-family-text: "Quicksand", sans-serif;
+  --font-family-title: "Rubik Mono One", sans-serif;
+
+  /* VARIABLES COMMUNES END */
+}
+
+/* SETTINGS START */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family-text);
+  color: var(--color-main);
+  background-color: #000000;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+  font-size: 1em;
+  font-family: var(--font-family-text);
+}
+
+.menu a {
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+.menu a:hover {
+  color: var(--button-color);
+  text-decoration: none;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100vw;
+  height: auto;
+  background-color: #111111;
+}
+
+footer p {
+  margin: 0;
+  font-size: 1.2em;
+  font-weight: 500;
+  text-align: center;
+  padding: 10px 0px 5px 0px;
+  font-family: var(--font-family-title);
+  color: #fff;
+}
+
+footer p a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer p a:hover {
+  color: var(--button-color);
+}
+
+.mention {
+  margin: 0;
+  font-size: 0.5em;
+  font-weight: 500;
+  text-align: center;
+  font-family: var(--font-family-text);
+  color: #fff;
+}
+
+.mention a {
+  color: #fff;
+  text-decoration: none;
+  font-family: var(--font-family-text);
+}
+
+.mention a:hover {
+  color: var(--button-color);
+}
+
+footer .footer-content a {
+  color: #fff;
+}
+footer .footer-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5px;
+  size: 20px;
+}
+
+footer .footer-content li {
+  list-style-type: none;
+}
+
+@media screen and (max-width: 550px) {
+  .menu {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,137 @@
+:root {
+  --primary-color: #000;
+  --secondary-color: #fff;
+  --button-color: #8f1d28;
+  --hover-color: #cc0200;
+  --light-dark: rgba(0, 0, 0, 0.7);
+  --light-dark-2: rgba(0, 0, 0, 0.4);
+  --light-white: rgba(255, 255, 255, 0.7);
+  --light-white-2: rgba(255, 255, 255, 0.4);
+
+  --spacing: 8px;
+  --spacing-2: 16px;
+  --spacing-3: 24px;
+  --spacing-4: 32px;
+  --spacing-5: 40px;
+
+  --text-font-size: 16px;
+  --title1-font-size: 32px;
+  --title2-font-size: 28px;
+  --title3-font-size: 24px;
+
+  --font-family-text: "Quicksand", sans-serif;
+  --font-family-title: "Rubik Mono One", sans-serif;
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ------------------ Page atterissage  ------------------ */
+
+/* styles pour la vidéo de fond */
+.video-container {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#myVideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* styles pour l'audio de fond */
+audio {
+  position: fixed;
+  z-index: -1;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+}
+
+/* styles pour l'image de Chucky */
+.container-chucky {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  margin-top: 50px;
+}
+
+.container-img-chucky {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 25vw;
+}
+
+.container-img-chucky > img {
+  width: 20em;
+  height: auto;
+}
+
+/* styles pour le titre cliquable */
+.container-chucky > h2 {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 2.3rem;
+  color: var(--secondary-color);
+  font-family: var(--font-family-title);
+}
+
+.container-chucky a {
+  color: var(--button-color);
+  text-decoration: underline;
+}
+.container-chucky a:hover {
+  color: var(--hover-color);
+}
+
+/* ------------------ Footer  ------------------ */
+/* footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 4rem;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 2px solid var(--secondary-color);
+  margin-top: 100px; 
+} 
+*/
+/* ------------------ Medias querry  ------------------ */
+
+@media screen and (max-width: 768px) {
+  .container-chucky > h2 {
+    font-size: 1.8rem;
+  }
+  .container-img-chucky {
+    max-width: 60%;
+  }
+}
+@media screen and (max-width: 550px) {
+  .container-chucky > h2 {
+    font-size: 1.4rem;
+  }
+  .container-img-chucky {
+    max-width: 80%;
+  }
+}
