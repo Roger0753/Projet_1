@@ -1,3 +1,5 @@
+# Présentation du Projet
+
 # PROJET 1 : Portfolio Chucky
 
 Ce projet avait pour objectif de mettre en avant le portfolio d'un personnage célèbre et maléfique. Le projet "Chucky" était une réalisation en front-end qui exposait le côté obscur du personnage Chucky. L'objectif principal était de créer une expérience interactive captivante en mettant en évidence les aspects sombres et mystérieux de Chucky, tout en démontrant des compétences approfondies en développement front-end.
@@ -25,6 +27,9 @@ Notre objectif principal était de fournir un site portfolio pertinent et effica
 Après le partage de travail prévu par le groupe, je me suis occupé de la page de contat mettant en avant les coordonnées et la localisation du personnage; ainsi le footer de chaque page. les pages sont en full responsive.
 #### images du travail personnel:
 
+<a href="https://ibb.co/wpwh81d"><img src="https://i.ibb.co/qmWYhwD/Capture-d-cran-du-2023-06-01-15-09-19.png" alt="Capture-d-cran-du-2023-06-01-15-09-19" border="0"></a>
+
+<a href="https://ibb.co/CBQMwXy"><img src="https://i.ibb.co/8M9dmRw/Capture-d-cran-du-2023-06-01-15-10-18.png" alt="Capture-d-cran-du-2023-06-01-15-10-18" border="0"></a>
 
 ### Accomplissement collaboratif de l'équipe
 Grâce à notre collaboration collective fructueuse, nous avons pu concrétiser les fonctionnalités suivantes :
@@ -39,4 +44,18 @@ Grâce à notre collaboration collective fructueuse, nous avons pu concrétiser 
 * Git/GitHub
 
 ### Quelques images du site
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/d68fc3w/Capture-d-cran-du-2023-06-01-14-44-18.png" alt="Capture-d-cran-du-2023-06-01-14-44-18" border="0"></a>
+
+<a href="https://ibb.co/4RyTD5n"><img src="https://i.ibb.co/d4923zw/Capture-d-cran-du-2023-06-01-14-42-08.png" alt="Capture-d-cran-du-2023-06-01-14-42-08" border="0"></a>
+
+<a href="https://ibb.co/Ldf6j7m"><img src="https://i.ibb.co/zVwb9vp/Capture-d-cran-du-2023-06-01-14-46-50.png" alt="Capture-d-cran-du-2023-06-01-14-46-50" border="0"></a>
+
+<a href="https://ibb.co/Ldf6j7m"><img src="https://i.ibb.co/zVwb9vp/Capture-d-cran-du-2023-06-01-14-46-50.png" alt="Capture-d-cran-du-2023-06-01-14-46-50" border="0"></a>
+
+<a href="https://ibb.co/kQX1bk1"><img src="https://i.ibb.co/xJ6H9PH/Capture-d-cran-du-2023-06-01-15-14-02.png" alt="Capture-d-cran-du-2023-06-01-15-14-02" border="0"></a>
+
+### Pour mieux visualiser le projet, je vous conseille de telecharger le dossier.
+
+
+
 
