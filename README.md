@@ -56,6 +56,10 @@ Grâce à notre collaboration collective fructueuse, nous avons pu concrétiser 
 
 ### Pour mieux visualiser le projet, je vous conseille de telecharger le dossier.
 
+## Contact
+* Profil Linkedin : [Linkedin](https://www.linkedin.com/in/roger-aissan/)
+* Mail : roger.aissan@gmail.com
+
 
 
 
