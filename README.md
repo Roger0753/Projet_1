@@ -54,7 +54,9 @@ Grâce à notre collaboration collective fructueuse, nous avons pu concrétiser 
 
 <a href="https://ibb.co/kQX1bk1"><img src="https://i.ibb.co/xJ6H9PH/Capture-d-cran-du-2023-06-01-15-14-02.png" alt="Capture-d-cran-du-2023-06-01-15-14-02" border="0"></a>
 
+___
 ### Pour mieux visualiser le projet, je vous conseille de telecharger le dossier.
+___
 
 ## Contact
 * Profil Linkedin : [Linkedin](https://www.linkedin.com/in/roger-aissan/)
